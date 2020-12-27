@@ -80,12 +80,12 @@
 
 <!-- </details> -->
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Taufiq's GitHub Stats" src="https://github-readme-stats.MuhammadTaufiq01.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [website]: https://muhammadtaufiq01.github.io/
 <!-- [course]: http://vsCodeHero.com -->
