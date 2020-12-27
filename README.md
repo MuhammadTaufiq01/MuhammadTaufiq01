@@ -87,7 +87,7 @@
 
 </details> -->
 
-[website]: https://muhammadtaufiq01.github.io/
+[website]: https://muhammadtaufiq01.github.io/moreme.html
 <!-- [course]: http://vsCodeHero.com -->
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 [youtube]: https://www.youtube.com/channel/UCC4we7kBTEYbmkX1FZnNHMA
