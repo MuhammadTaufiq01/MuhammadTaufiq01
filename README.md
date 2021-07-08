@@ -8,7 +8,7 @@
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning everything 🤣
 <!-- - 👯 I’m looking to collaborate with other content creators -->
-- 🥅 2021 Goals: Learn React
+<!-- - 🥅 2021 Goals: Learn React -->
 - ⚡ Fun fact: I love to Design graphics and playing video games
 
 ### Connect with me:
